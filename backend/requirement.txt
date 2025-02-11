@@ -1,1 +1,2 @@
-toto
+Flask==2.2.2
+Flask-JWT-Extended==4.4.4
